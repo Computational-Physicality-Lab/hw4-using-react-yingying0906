@@ -44,7 +44,7 @@ On the other hand, with **HTML/CSS/JavaScript**, you have to use `getElementById
 
 ## Comprehensibility (理解性)
 
-As a beginner, I find **React** easier to understand because its JSX syntax is quite intuitive and can be very concise, which increases readability.
+As a beginner, **React** may be easier to understand because its JSX syntax is quite intuitive and can be very concise, which increases readability.
 
 However, as someone who has learned **HTML/CSS/JavaScript**, like myself, I find that it takes some time to learn **React**, as the way of thinking is different between them.
 
