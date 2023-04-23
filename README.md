@@ -54,7 +54,7 @@ Overall, **React** is still relatively easy to understand.
 
 ## Code complexity and code quantity (程式碼複雜度與數量)
 
-When implementing the same page, **React** code is usually shorter. For example, in the case of a Product Detail page, the elements that need to be generated depend on the user's click behavior, so when generating them, you need to fetch different areas of elements, create new ones, add various attributes to them, and finally append them.
+When implementing the same page, **React** code is usually shorter. For example, in the case of a Product Detail page using **HTML/CSS/Javascript**, the elements that need to be generated depend on the user's click behavior, so when generating them, you need to fetch different areas of elements, create new ones, add various attributes to them, and finally append them.
 
 In contrast, with **React**, you only need to define the framework and how to change the state based on the user's click behavior, and the page only needs to generate content according to the latest state. Therefore, **React** can be more efficient in terms of code compared to **HTML/CSS/JavaScript**.
 
