@@ -26,3 +26,9 @@
 #desc > div > p {
 	color: gray;
 }
+
+@media screen and (max-width: 1000px) {
+	#desc {
+		flex-wrap: wrap;
+	}
+}

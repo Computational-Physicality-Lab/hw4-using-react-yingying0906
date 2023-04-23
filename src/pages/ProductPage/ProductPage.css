@@ -18,3 +18,14 @@
 	margin: 0;
 	margin-bottom: 20px;
 }
+
+@media screen and (max-width: 1000px) {
+	.ProductPage-Container {
+		flex-wrap: wrap;
+		justify-content: flex-start;
+	}
+
+	.ProductPage-rightDiv {
+		margin-left: 0px;
+	}
+}
