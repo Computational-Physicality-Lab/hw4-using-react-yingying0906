@@ -1,6 +1,6 @@
 import { useContext } from "react";
 import { Button } from "reactstrap";
-
+import { Link } from "react-router-dom";
 import { CartContext } from "../../../context/CartContext";
 import { ProductContext } from "../../../context/ProductContext";
 
@@ -22,7 +22,13 @@ const AddCartBtn = () => {
 					addToCart(productState);
 				}}
 			>
-				Add To Cart
+				<Link
+					className="addToCartLink"
+					style={{ textDecoration: "none", color: "white" }}
+					to="/cart"
+				>
+					Add To Cart
+				</Link>
 			</Button>
 		</div>
 	);
