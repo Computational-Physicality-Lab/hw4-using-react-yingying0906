@@ -72,7 +72,6 @@ Moreover, using **React** makes the code cleaner and reduces confusion when it c
 # Reminder
 
 1. During the implementation, I realized at the very end that I had been pushing to my own GitHub repo all along, so I'll still include the link to my original pushed repo for reference.
-
-https://github.com/yingying0906/SSUI-hw4
+  - https://github.com/yingying0906/SSUI-hw4
 
 2. In a website deployed on Netlify, switching images may take some time to load when entering the website for the first time. However, after loading, image switching should be smooth. Likewise, if you run the website locally, you should also experience smooth image switching.
